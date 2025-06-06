@@ -1,0 +1,22 @@
+{
+  "resources": [
+    "big-cine-boom-sound-effect-245851-2.mp3"
+  ],
+  "spritemap": {
+    "gun_csg1_fire": {
+      "start": 0,
+      "end": 1.0,
+      "loop": false
+    },
+    "gun_csg1_Legacy_fire": {
+      "start": 0,
+      "end": 1.0,
+      "loop": false
+    },
+    "customBoom": {
+      "start": 0,
+      "end": 1.0,
+      "loop": false
+    }
+  }
+}
